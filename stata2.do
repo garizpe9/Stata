@@ -554,7 +554,7 @@ eststo: quietly logistic****// ****:Removed for confidentiality
 
 esttab using "5-Year Logisistic Coefficients", rtf replace beta z con label nobase nogaps title("5-Year Logisistic Coefficients") addn("s")
 
-*------------------------------------------------------------------------------
+/*------------------------------------------------------------------------------
 19) 
 /*Close Log*/
 -------------------------------------------------------------------------------*/
